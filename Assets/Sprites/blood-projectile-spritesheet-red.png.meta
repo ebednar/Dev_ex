@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: ceffc7ba81c02406984c1cdd4cb0bf5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2866012858998170856
+    second: projectile1
+  - first:
+      213: -3015957392701679937
+    second: projectile2
+  - first:
+      213: 1462796290653345820
+    second: projectile3
+  - first:
+      213: -8398009881616118452
+    second: projectile4
+  - first:
+      213: 8012295093161012668
+    second: projectile5
+  - first:
+      213: -6817238293494833774
+    second: projectile6
+  - first:
+      213: -6060020671734030049
+    second: blood-projectile-spritesheet-red_6
+  - first:
+      213: 7157252828072047212
+    second: blood-projectile-spritesheet-red_7
+  - first:
+      213: 7857991464877942311
+    second: blood-projectile-spritesheet-red_8
+  - first:
+      213: -2152990130357187733
+    second: blood-projectile-spritesheet-red_9
+  - first:
+      213: 6354115298883159257
+    second: blood-projectile-spritesheet-red_10
+  - first:
+      213: -7042532173726524066
+    second: blood-projectile-spritesheet-red_11
+  - first:
+      213: -1393490614563413397
+    second: blood-projectile-spritesheet-red_12
+  - first:
+      213: 6316990555684286486
+    second: blood-projectile-spritesheet-red_13
+  - first:
+      213: -5385317392079849370
+    second: blood-projectile-spritesheet-red_14
+  - first:
+      213: 1875335672318306073
+    second: blood-projectile-spritesheet-red_15
+  - first:
+      213: 7590285235248357212
+    second: blood-projectile-spritesheet-red_16
+  - first:
+      213: 1039420592022946551
+    second: blood-projectile-spritesheet-red_17
+  - first:
+      213: 7462135052837475839
+    second: blood-projectile-spritesheet-red_18
+  - first:
+      213: 5150123879423853326
+    second: blood-projectile-spritesheet-red_19
+  - first:
+      213: 3146897749526175646
+    second: blood-projectile-spritesheet-red_20
+  - first:
+      213: -8663403732516897857
+    second: blood-projectile-spritesheet-red_21
+  - first:
+      213: 384946777630413785
+    second: blood-projectile-spritesheet-red_22
+  - first:
+      213: 3163419940982470977
+    second: blood-projectile-spritesheet-red_23
+  - first:
+      213: -1937527589119539114
+    second: blood-projectile-spritesheet-red_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: projectile1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 49
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b56b15d70e938d0800000000000000
+      internalID: -2866012858998170856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 45
+        width: 75
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb69d460bba2526d0800000000000000
+      internalID: -3015957392701679937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 39
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d623e975ec4410800000000000000
+      internalID: 1462796290653345820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile4
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 29
+        width: 153
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d0d0ad186447b80800000000000000
+      internalID: -8398009881616118452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile5
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 18
+        width: 138
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbda77fafe3613f60800000000000000
+      internalID: 8012295093161012668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: projectile6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 13
+        width: 108
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ddc0f24ed4461a0800000000000000
+      internalID: -6817238293494833774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,24 @@
+template<class T> void foo(T){} - taplste for generic programming, T is meta variable;
+
+container<T data, int size> - size here is Allocator, so it is used in purpose of allocation
+
+virtual funcs - works in runtime and slow it. Also needed to use just once in base class for all inhereted classes, final can be used in last class type.
+
+overriden - for virtual funcs | overload - for linker to choose by func's signature
+
+RAII - Resource Acquisition Is Initialization - create class around data (like file or just allocated memory);
+
+rvalue (tyoe&&) - called with temporary data to move instead copy;
+
+lambda - [](int a){} - used instead func pointer;
+
+protected - like private but for inheretance;
+
+5 constructors - base, copy, copy assign, move, move assign
+
+noexcept - for move construsts - this function will never throw exceptions
+
+friend class - to use private fields of different class (for HASA connectoin)
+
+<iomanip> - stream manipulator for change format of streams (cout << setprecision(int _n) for number after floating point)
+
